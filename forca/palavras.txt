@@ -1,0 +1,17 @@
+objeto
+
+angular
+
+python
+
+javascript
+
+react
+
+classe
+
+metodo
+
+função
+
+
